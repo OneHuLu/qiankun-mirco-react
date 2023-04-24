@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qiankun-mirco-react/static/css/main.073c9b0a.css",
+    "main.js": "/qiankun-mirco-react/static/js/main.df08edc2.js",
+    "static/js/787.9e3e059f.chunk.js": "/qiankun-mirco-react/static/js/787.9e3e059f.chunk.js",
+    "static/media/logo.svg": "/qiankun-mirco-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qiankun-mirco-react/index.html",
+    "main.073c9b0a.css.map": "/qiankun-mirco-react/static/css/main.073c9b0a.css.map",
+    "main.df08edc2.js.map": "/qiankun-mirco-react/static/js/main.df08edc2.js.map",
+    "787.9e3e059f.chunk.js.map": "/qiankun-mirco-react/static/js/787.9e3e059f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.df08edc2.js"
+  ]
+}
